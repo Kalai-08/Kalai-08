@@ -12,49 +12,41 @@
 
 ---
 
-## 💻 Tech Stack
+<img align="right" src="YOUR_PHOTO_URL" width="180" style="border-radius:50%; margin: 10px"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,go&perline=6" />
-</p>
-<p align="center"><b>Languages</b></p>
+## 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=6" />
-</p>
-<p align="center"><b>Frontend</b></p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,go&perline=6&theme=dark" height="60"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&perline=6" />
-</p>
-<p align="center"><b>Backend & Databases</b></p>
+## 🌐 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git&perline=6" />
-</p>
-<p align="center"><b>Tools</b></p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=6&theme=dark" height="60"/>
+
+## 🛠 Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&perline=6&theme=dark" height="60"/>
+
+## ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,docker,git&perline=6&theme=dark" height="60"/>
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 MoraExams
-> Island-wide examination platform for students preparing for finals. Includes a website, admin frontend, and backend — students can register online, participate in exams, and receive marks efficiently.
+> Island-wide examination platform for students preparing for finals. Students can register online, participate in exams, and receive marks efficiently.
 
 ### 🔹 SCED Project
-> Centralized To-Do & Notification Management System that unifies multiple scattered notifications into one platform. Built as a 2nd semester team project.
+> Centralized To-Do & Notification Management System that unifies scattered notifications into one platform. Built as a 2nd semester team project.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-08&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-08&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 ---
 
-<p align="center">
-  <em>⭐️ "Always learning, always building."</em>
-</p>
+<p align="center"><em>⭐️ "Always learning, always building."</em></p>
