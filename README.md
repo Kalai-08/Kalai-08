@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate full-stack developer with a keen interest in building scalable applications and solving real-world problems. I'm currently pursuing my undergraduate degree at the University of Moratuwa, where I'm honing my skills in software development and engineering best practices.
+Passionate full-stack developer with a keen interest in building scalable applications and solving real-world problems. I'm currently pursuing my undergraduate degree at the University of Moratuwa, where I'm honing my skills in software development and system design.
 
 ## 💻 Languages
 
@@ -75,14 +75,14 @@ Passionate full-stack developer with a keen interest in building scalable applic
 
 ## 📊 GitHub Statistics
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-08&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
-</p>
+<div align="center">
+  <img alt="Kalai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-</p>
+<div align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
 ---
 
