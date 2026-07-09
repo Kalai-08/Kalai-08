@@ -14,6 +14,10 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Kalai-08/Kalai-08/main/photo.jpg" width="180" style="border-radius:50%; margin: 10px"/>
 
+## 👨‍💻 About Me
+
+Passionate full-stack developer with a keen interest in building scalable applications and solving real-world problems. I'm currently pursuing my undergraduate degree at the University of Moratuwa, where I'm honing my skills in software development and engineering best practices.
+
 ## 💻 Languages
 
 <p>
@@ -42,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="70"/>
 </p>
 
-## ⚙️ Tools
+## ⚙️ Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="70"/>&nbsp;&nbsp;
@@ -52,26 +56,54 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔹 MoraExams
-> Island-wide examination platform for students preparing for finals. Students can register online, participate in exams, and receive marks efficiently.
+**Island-wide examination platform for students preparing for finals**
+- Students can register online, participate in exams, and receive marks efficiently
+- Built with modern full-stack technologies
+- [View Repository →](#)
 
 ### 🔹 SCED Project
-> Centralized To-Do & Notification Management System that unifies scattered notifications into one platform. Built as a 2nd semester team project.
+**Centralized To-Do & Notification Management System**
+- Unifies scattered notifications into one unified platform
+- Developed as a 2nd semester team project
+- Features real-time notifications and task management
+- [View Repository →](#)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-08&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
 </p>
+
 <p>
 <img src="https://github-profile-trophy.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </p>
 
 ---
 
-<p align="center"><em>⭐️ "Always learning, always building."</em></p>
+## 📚 Learning & Growth
+
+- 🎯 Currently focusing on: Cloud Technologies & Microservices
+- 🔍 Exploring: System Design & Software Architecture
+- 📖 Always learning new frameworks and best practices
+
+---
+
+## 💼 Let's Connect!
+
+I'm always interested in collaborating on interesting projects, discussing software design, or just connecting with fellow developers. Feel free to reach out!
+
+<p align="center">
+  <strong>⭐️ "Always learning, always building." ⭐️</strong>
+</p>
+
+---
+
+<p align="center">
+  <em>Last updated: July 2026</em>
+</p>
