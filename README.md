@@ -1,83 +1,68 @@
-<h1 align="center">Hi there, I'm Kalai 👋</h1>
+<h1 align="center"> Hi 👋, I'm Kalai </h1>
+<h3 align="center">Undergraduate @ University of Moratuwa | Database & Backend Enthusiast | Full-Stack in Progress 🚀</h3>
 
 <p align="center">
-  <em>Undergraduate @ University of Moratuwa &nbsp;|&nbsp; Software Engineer in the Making 🚀</em>
-</p>
-
-<p align="center">
-  <a href="mailto:kalaiblazer14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kalaiblazer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/Kalai-08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Kalai-08&label=PROFILE+VIEWS&style=for-the-badge&color=FF6347&labelColor=000000" alt="Profile Views" />
 </p>
 
 ---
-
-<img align="right" src="https://raw.githubusercontent.com/Kalai-08/Kalai-08/main/photo.jpg" width="180" style="border-radius:50%; margin: 10px"/>
 
 ## 👨‍💻 About Me
 
-Passionate full-stack developer with a keen interest in building scalable applications and solving real-world problems. I'm currently pursuing my undergraduate degree at the University of Moratuwa, where I'm honing my skills in software development and system design.
+- 🎓 Undergraduate at the **University of Moratuwa**
+- 💼 Passionate full-stack developer with a keen interest in scalable applications and real-world problem solving
+- 🌱 Currently focusing on **Cloud Technologies & Microservices**
+- 🔍 Exploring **System Design & Software Architecture**
+- 💡 Building and maintaining **MoraExams** — an island-wide exam registration & results platform
+- 📫 Reach me: **kalaiblazer14@gmail.com**
+- 📖 Always learning new frameworks and best practices
 
-## 💻 Languages
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=go&theme=dark" height="70"/>
-</p>
+## 🛠️ Languages & Tools
 
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="70"/>
-</p>
-
-## 🛠 Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="70"/>
-</p>
-
-## ⚙️ Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="70"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="70"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 MoraExams
-**Island-wide examination platform for students preparing for finals**
-- Students can register online, participate in exams, and receive marks efficiently
-- Built with modern full-stack technologies
-- [View Repository →](#)
+- 🔹 **MoraExams** – Island-wide exam registration & results platform (students register, sit exams, and get marks efficiently)
+- 🔹 **SCED Project** – Centralized to-do & notification management system, built as a 2nd semester team project with real-time notifications
+- 🔹 **Full-Stack Web Apps** – React, Node.js, MySQL
 
-### 🔹 SCED Project
-**Centralized To-Do & Notification Management System**
-- Unifies scattered notifications into one unified platform
-- Developed as a 2nd semester team project
-- Features real-time notifications and task management
-- [View Repository →](#)
+📌 *More projects available in my repositories.*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
-  <img alt="Kalai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kalai-08&theme=tokyonight"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180em"
+  />
 </div>
 
 <div align="center">
@@ -86,24 +71,26 @@ Passionate full-stack developer with a keen interest in building scalable applic
 
 ---
 
-## 📚 Learning & Growth
-
-- 🎯 Currently focusing on: Cloud Technologies & Microservices
-- 🔍 Exploring: System Design & Software Architecture
-- 📖 Always learning new frameworks and best practices
-
----
-
-## 💼 Let's Connect!
-
-I'm always interested in collaborating on interesting projects, discussing software design, or just connecting with fellow developers. Feel free to reach out!
+## 🌐 Connect With Me
 
 <p align="center">
-  <strong>⭐️ "Always learning, always building." ⭐️</strong>
+  <a href="https://www.linkedin.com/in/kalaiblazer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kalaiblazer14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Kalai-08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Last updated: July 2026</em>
+  <strong>⭐️ "Always learning, always building." ⭐️</strong>
+</p>
+
+<p align="center">
+  <em>Last updated: September 2026</em>
 </p>
