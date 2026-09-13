@@ -22,45 +22,45 @@
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="65" />
 </p>
 
 ## 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="65" />
 </p>
 
 ## 🛠 Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" height="35" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" height="35" style="vertical-align:middle" />
 </p>
 
 ## ⚙️ Tools, DevOps & Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=canva&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=railway&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="65" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="35" style="vertical-align:middle" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="35" style="vertical-align:middle" />
 </p>
 
 ---
@@ -77,20 +77,16 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kalai-08&theme=tokyonight"
-    height="180em"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalai-08&theme=tokyonight" height="165" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<div align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+<br/>
+
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
+</p>
 
 ---
 
