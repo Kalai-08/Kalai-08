@@ -19,25 +19,48 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=typescript&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=go&theme=dark" height="55" />
+</p>
+
+## 🌐 Frontend
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55" />
+</p>
+
+## 🛠 Backend & Databases
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" height="35" />
+</p>
+
+## ⚙️ Tools, DevOps & Design
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="55" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=canva&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=railway&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="55" />
 </p>
 
 ---
