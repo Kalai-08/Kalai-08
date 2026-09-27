@@ -79,13 +79,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalai-08&theme=tokyonight" height="165" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://YOUR-STATS-APP.vercel.app/api?username=Kalai-08&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
+  <img alt="GitHub Trophies" src="https://YOUR-TROPHY-APP.vercel.app/?username=Kalai-08&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
 </p>
 
 ---
