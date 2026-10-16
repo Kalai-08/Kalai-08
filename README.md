@@ -68,9 +68,9 @@
 
 ## 🚀 Projects
 
-- 🔹 **E-Commerce Platform** – My latest full-stack project featuring product listings, shopping cart, user authentication, order flow, and admin management for a modern online store
-  - Live demo: [Add demo URL here](https://example.com)
-  - Repo: [Add repo link here](https://github.com/Kalai-08/your-ecommerce-repo)
+- 🔹 **E-Commerce Platform — BrightBuy** – My latest full-stack project featuring product listings, shopping cart, user authentication, order flow, and admin management for a modern online store
+  - Live demo: [brightbuy-zeta.vercel.app](https://brightbuy-zeta.vercel.app/)
+  - Repo: [EcommerceSystemforBrightBuy/ecommerce-Site](https://github.com/EcommerceSystemforBrightBuy/ecommerce-Site)
   - Tech stack: React · Next.js · Node.js · Express · MySQL · Docker · Tailwind CSS
   - Screenshot: ![E-Commerce screenshot](./assets/ecommerce-screenshot.png)
 - 🔹 **MoraExams** – Island-wide exam registration & results platform (students register, sit exams, and get marks efficiently)
