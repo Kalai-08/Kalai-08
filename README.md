@@ -69,6 +69,10 @@
 ## 🚀 Projects
 
 - 🔹 **E-Commerce Platform** – My latest full-stack project featuring product listings, shopping cart, user authentication, order flow, and admin management for a modern online store
+  - Live demo: [Add demo URL here](https://example.com)
+  - Repo: [Add repo link here](https://github.com/Kalai-08/your-ecommerce-repo)
+  - Tech stack: React · Next.js · Node.js · Express · MySQL · Docker · Tailwind CSS
+  - Screenshot: ![E-Commerce screenshot](./assets/ecommerce-screenshot.png)
 - 🔹 **MoraExams** – Island-wide exam registration & results platform (students register, sit exams, and get marks efficiently)
 - 🔹 **SCED Project** – Centralized to-do & notification management system, built as a 2nd semester team project with real-time notifications
 - 🔹 **Full-Stack Web Apps** – React, Node.js, MySQL, and scalable modern web application development
