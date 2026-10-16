@@ -72,7 +72,6 @@
   - Live demo: [brightbuy-zeta.vercel.app](https://brightbuy-zeta.vercel.app/)
   - Repo: [EcommerceSystemforBrightBuy/ecommerce-Site](https://github.com/EcommerceSystemforBrightBuy/ecommerce-Site)
   - Tech stack: React · Next.js · Node.js · Express · MySQL · Docker · Tailwind CSS
-  - Screenshot: ![E-Commerce screenshot](./assets/ecommerce-screenshot.png)
 - 🔹 **MoraExams** – Island-wide exam registration & results platform (students register, sit exams, and get marks efficiently)
 - 🔹 **SCED Project** – Centralized to-do & notification management system, built as a 2nd semester team project with real-time notifications
 - 🔹 **Full-Stack Web Apps** – React, Node.js, MySQL, and scalable modern web application development
