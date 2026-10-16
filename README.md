@@ -13,6 +13,7 @@
 - 💼 Passionate full-stack developer with a keen interest in scalable applications and real-world problem solving
 - 🌱 Currently focusing on **Cloud Technologies & Microservices**
 - 🔍 Exploring **System Design & Software Architecture**
+- 🚀 My latest work is an **E-Commerce platform** with product browsing, cart management, checkout flow, and admin features
 - 💡 Building and maintaining **MoraExams** — an island-wide exam registration & results platform
 - 📫 Reach me: **kalaiblazer14@gmail.com**
 - 📖 Always learning new frameworks and best practices
@@ -67,9 +68,10 @@
 
 ## 🚀 Projects
 
+- 🔹 **E-Commerce Platform** – My latest full-stack project featuring product listings, shopping cart, user authentication, order flow, and admin management for a modern online store
 - 🔹 **MoraExams** – Island-wide exam registration & results platform (students register, sit exams, and get marks efficiently)
 - 🔹 **SCED Project** – Centralized to-do & notification management system, built as a 2nd semester team project with real-time notifications
-- 🔹 **Full-Stack Web Apps** – React, Node.js, MySQL
+- 🔹 **Full-Stack Web Apps** – React, Node.js, MySQL, and scalable modern web application development
 
 📌 *More projects available in my repositories.*
 
@@ -111,5 +113,5 @@
 </p>
 
 <p align="center">
-  <em>Last updated: September 2026</em>
+  <em>Last updated: October 2026</em>
 </p>
