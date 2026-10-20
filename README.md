@@ -61,14 +61,15 @@
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="65" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="65" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="35" style="vertical-align:middle" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="35" style="vertical-align:middle" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="35" style="vertical-align:middle" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="35" style="vertical-align:middle" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 **E-Commerce Platform — BrightBuy** – My latest full-stack project featuring product listings, shopping cart, user authentication, order flow, and admin management for a modern online store
+- 🔹 **E-Commerce Platform — BrightBuy** – My latest full-stack project featuring product listings, shopping cart, user authentication, order flow, and admin management for a modern online storefront
   - Live demo: [brightbuy-zeta.vercel.app](https://brightbuy-zeta.vercel.app/)
   - Repo: [EcommerceSystemforBrightBuy/ecommerce-Site](https://github.com/EcommerceSystemforBrightBuy/ecommerce-Site)
   - Tech stack: React · Next.js · Node.js · Express · MySQL · Docker · Tailwind CSS
